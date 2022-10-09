@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    unsigned int n,t,s;
+    long long n,t,s;
     cout << "n = ";
     cin >> n;
 
