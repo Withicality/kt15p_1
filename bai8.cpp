@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     long long a,b;
-    cout << "Nhap lan luot so kg gao/dan va dan so mot nuoc: ";
+    cout << "Nhap lan luot so kg gao/dan va dan so: ";
     cin >> a >> b;
 
     long long r = a*b;
