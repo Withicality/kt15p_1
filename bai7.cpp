@@ -15,6 +15,6 @@ int main() {
         sum+=i;
     }
 
-    cout << "Tong cac so trong doan [a;b]: " << sum << endl;
+    cout << "Tong cac so le trong doan [a;b]: " << sum << endl;
     return 0;
 }
